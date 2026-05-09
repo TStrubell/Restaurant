@@ -34,5 +34,6 @@ a{
 .menu-table td{
     border: 1px solid #ccc;
     padding: 10px;
-    text-align: left;
+    text-align: center;
+    background-color: aliceblue;
 }
